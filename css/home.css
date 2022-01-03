@@ -1,0 +1,36 @@
+
+  h1 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 44px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-family: Source Sans Pro;
+    color: #111;
+  }
+
+  #btn {
+    background-color: #008CE4 !important;
+    color: white!important;
+    margin: 0;
+    font-family: Source Sans Pro,sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: normal;
+    text-align: center;
+    white-space: nowrap;
+    position: relative;
+    cursor: pointer;
+    height: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 25px;
+    border: 0;
+    box-sizing: border-box;
+    display: inline-block;
+    text-decoration: none;   
+ }
+ 
